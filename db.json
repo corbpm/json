@@ -22,27 +22,7 @@
 { "Sel": "Arts and crafts fair/sale, "Value": 6"},
 { "Sel": "Athletics meeting or competition, "Value": 7"},
 { "Sel": "Auction, "Value": 8"},
-{ "Sel": "Awards presentation, "Value": 9"},
-{ "Sel": "Badminton match or tournament, "Value": 10"},
-{ "Sel": "Bag packing for charity, "Value": 11"},
-{ "Sel": "Ball or dance (not a rave), "Value": 12"},
-{ "Sel": "Balloon release, "Value": 13"},
-{ "Sel": "Barbeque, "Value": 14"},
-{ "Sel": "Barn dance, "Value": 15"},
-{ "Sel": "Baseball match or tournament, "Value": 16"},
-{ "Sel": "Basketball match or tournament, "Value": 17"},
-{ "Sel": "Bazaar, "Value": 18"},
-{ "Sel": "Beach sports, "Value": 19"},
-{ "Sel": "Beauty pageant, "Value": 20"},
-{ "Sel": "Beer festival, "Value": 21"},
-{ "Sel": "Band meet/show, "Value": 22"},
-{ "Sel": "Bingo event, "Value": 23"},
-{ "Sel": "Board game competition or event, "Value": 24"},
-{ "Sel": "Boat show (land based only), "Value": 25"},
-{ "Sel": "Book fair, "Value": 26"},
-{ "Sel": "Boot fair/car boot sale, "Value": 27"},
-{ "Sel": "Boxing/wrestling match, "Value": 28"},
-{ "Sel": "Bridge or beetle drive, "Value": 29"}
+{ "Sel": "Awards presentation, "Value": 9"}
 
 ]
   
